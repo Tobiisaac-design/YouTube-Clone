@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.702565f6.css",
-    "main.js": "/my-app/static/js/main.097a37f8.js",
-    "static/js/453.af6aa742.chunk.js": "/my-app/static/js/453.af6aa742.chunk.js",
-    "static/media/cameron.png": "/my-app/static/media/cameron.cedb1ba5832f609542da.png",
-    "static/media/tom.png": "/my-app/static/media/tom.df63bfcb6f1c8f5d7137.png",
-    "static/media/tobi.jpg": "/my-app/static/media/tobi.0f6343f4585151ec2cc7.jpg",
-    "static/media/jack.png": "/my-app/static/media/jack.3a2249a07dd80a9c36a4.png",
-    "static/media/megan.png": "/my-app/static/media/megan.d9c678d896bed0b8c031.png",
-    "static/media/simon.png": "/my-app/static/media/simon.a92c2df263101574e364.png",
-    "static/media/logo.png": "/my-app/static/media/logo.a739eef1dfa1965bf599.png",
-    "index.html": "/my-app/index.html",
-    "main.702565f6.css.map": "/my-app/static/css/main.702565f6.css.map",
-    "main.097a37f8.js.map": "/my-app/static/js/main.097a37f8.js.map",
-    "453.af6aa742.chunk.js.map": "/my-app/static/js/453.af6aa742.chunk.js.map"
+    "main.css": "/YouTube-Clone/static/css/main.702565f6.css",
+    "main.js": "/YouTube-Clone/static/js/main.957d2dc0.js",
+    "static/js/453.af6aa742.chunk.js": "/YouTube-Clone/static/js/453.af6aa742.chunk.js",
+    "static/media/cameron.png": "/YouTube-Clone/static/media/cameron.cedb1ba5832f609542da.png",
+    "static/media/tom.png": "/YouTube-Clone/static/media/tom.df63bfcb6f1c8f5d7137.png",
+    "static/media/tobi.jpg": "/YouTube-Clone/static/media/tobi.0f6343f4585151ec2cc7.jpg",
+    "static/media/jack.png": "/YouTube-Clone/static/media/jack.3a2249a07dd80a9c36a4.png",
+    "static/media/megan.png": "/YouTube-Clone/static/media/megan.d9c678d896bed0b8c031.png",
+    "static/media/simon.png": "/YouTube-Clone/static/media/simon.a92c2df263101574e364.png",
+    "static/media/logo.png": "/YouTube-Clone/static/media/logo.a739eef1dfa1965bf599.png",
+    "index.html": "/YouTube-Clone/index.html",
+    "main.702565f6.css.map": "/YouTube-Clone/static/css/main.702565f6.css.map",
+    "main.957d2dc0.js.map": "/YouTube-Clone/static/js/main.957d2dc0.js.map",
+    "453.af6aa742.chunk.js.map": "/YouTube-Clone/static/js/453.af6aa742.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.702565f6.css",
-    "static/js/main.097a37f8.js"
+    "static/js/main.957d2dc0.js"
   ]
 }
