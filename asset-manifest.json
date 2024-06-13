@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/YouTube-Clone/static/css/main.994ef547.css",
-    "main.js": "/YouTube-Clone/static/js/main.9965b1cf.js",
+    "main.css": "/YouTube-Clone/static/css/main.82eff8db.css",
+    "main.js": "/YouTube-Clone/static/js/main.7786886c.js",
     "static/js/453.af6aa742.chunk.js": "/YouTube-Clone/static/js/453.af6aa742.chunk.js",
     "static/media/cameron.png": "/YouTube-Clone/static/media/cameron.cedb1ba5832f609542da.png",
     "static/media/tom.png": "/YouTube-Clone/static/media/tom.df63bfcb6f1c8f5d7137.png",
@@ -11,12 +11,12 @@
     "static/media/boy.png": "/YouTube-Clone/static/media/boy.47068c4a495a438361f3.png",
     "static/media/logo.png": "/YouTube-Clone/static/media/logo.a739eef1dfa1965bf599.png",
     "index.html": "/YouTube-Clone/index.html",
-    "main.994ef547.css.map": "/YouTube-Clone/static/css/main.994ef547.css.map",
-    "main.9965b1cf.js.map": "/YouTube-Clone/static/js/main.9965b1cf.js.map",
+    "main.82eff8db.css.map": "/YouTube-Clone/static/css/main.82eff8db.css.map",
+    "main.7786886c.js.map": "/YouTube-Clone/static/js/main.7786886c.js.map",
     "453.af6aa742.chunk.js.map": "/YouTube-Clone/static/js/453.af6aa742.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.994ef547.css",
-    "static/js/main.9965b1cf.js"
+    "static/css/main.82eff8db.css",
+    "static/js/main.7786886c.js"
   ]
 }
