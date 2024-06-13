@@ -17,7 +17,7 @@ import megan from "../../assets/megan.png";
 import cameron from "../../assets/cameron.png";
 
 const Sidebar = ({ sidebar }) => {
-  console.log("Sidebar state:", sidebar); // Log for debugging
+  // console.log("Sidebar state:", sidebar); // Log for debugging
 
   return (
     <div className={`sidebar ${sidebar ? "" : "small-sidebar"}`}>

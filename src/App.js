@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState } from "react";
 import Navbar from "./Components/Navbar/Navbar";
 import Sidebar from "./Components/Sidebar/Sidebar";
@@ -11,9 +10,7 @@ const App = () => {
   const [sidebar, setSidebar] = useState(true);
 
   const toggleSidebar = () => {
-    console.log("Toggle sidebar clicked");
     setSidebar((prev) => !prev);
-    console.log("Sidebar state:", !sidebar);
   };
 
   return (

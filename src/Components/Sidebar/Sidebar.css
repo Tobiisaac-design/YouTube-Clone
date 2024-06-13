@@ -1,7 +1,7 @@
 .sidebar {
   background: #fff;
   width: 15%;
-  height: 10vh;
+  height: 100vh;
   position: fixed;
   top: 0;
   padding-left: 2%;
@@ -42,21 +42,10 @@
 .small-sidebar {
   width: 5%;
 }
-.content {
-  transition: margin-left 0.3s ease;
-}
-
-.content-expanded {
-  margin-left: 15%;
-}
-
-.content-collapsed {
-  margin-left: 5%;
-}
-
-.small-sidebar {
-  width: 5%;
-}
-/* .small-sidebar p {
+.small-sidebar p {
   display: none;
-} */
+}
+
+.sidebar-collapsed {
+  transform: translateX(-100%); /* Move sidebar off-screen when collapsed */
+}
