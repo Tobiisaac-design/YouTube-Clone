@@ -8,11 +8,16 @@ import more_icon from "../../assets/more.png";
 import notification_icon from "../../assets/notification.png";
 import profile_icon from "../../assets/boy.png";
 
-const Navbar = () => {
+const Navbar = ({ toggleSidebar }) => {
   return (
     <nav className="flex-div">
       <div className="nav-left flex-div">
-        <img className="menu-icon" src={menu_icon} alt="Menu Icon" />
+        <img
+          className="menu-icon"
+          onClick={toggleSidebar}
+          src={menu_icon}
+          alt="Menu Icon"
+        />
         <img className="logo" src={logo} alt="Logo" />
       </div>
 
